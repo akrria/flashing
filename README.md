@@ -9,7 +9,7 @@ Flashcard app
 
 ### App Walk-though
 
-<img src="https://giphy.com/gifs/ZXAgzRlJod4sgTW1qI" width=200><br>
+<img src="https://media1.giphy.com/media/ZXAgzRlJod4sgTW1qI/giphy.gif" width=200><br>
 
 
 ## Required
